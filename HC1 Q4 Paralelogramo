@@ -1,0 +1,18 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		//Paralelogramo
+		real base, altura, area
+
+		escreva("insira o valor da Base: ")
+		leia(base)
+		escreva("insira o valor da Altura: ")
+		leia(altura)
+
+		area = (base * altura) 
+
+		escreva("A área do Paralelogramo é: " + area)
+	}
+}
