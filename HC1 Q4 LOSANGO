@@ -1,0 +1,36 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		//Losango
+
+    real Diagmaior, Diagmenor, area
+
+    escreva("Informe o Diagmaior: ")
+    leia(Diagmaior)
+    escreva("Informe o segundo Diagmenor: ")
+    leia(Diagmenor)
+
+    area = (Diagmaior * Diagmenor)/2
+
+    escreva("O resultado é " + area + ".")
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	}
+}
